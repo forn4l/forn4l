@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @forn4l
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me filip.fornalczyk@gmail.com
+- 😄 Pronouns: he/him
