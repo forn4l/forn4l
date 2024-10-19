@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @forn4l
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently enhancing my advanced JavaScript skills
 - 📫 How to reach me filip.fornalczyk@gmail.com
 - 😄 Pronouns: he/him
